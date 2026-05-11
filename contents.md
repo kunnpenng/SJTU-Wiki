@@ -7,6 +7,7 @@
     * [常用网站](sjtu-introduction/website.md)
     * [常用公众号](sjtu-introduction/wechat.md)
     * [通知渠道](sjtu-introduction/notice.md)
+    * [费用和收入](sjtu-introduction/fee.md)
 
 * [新生](freshman/index.md)
     * [入学准备](freshman/preparation.md)
