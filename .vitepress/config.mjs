@@ -3,7 +3,7 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     srcDir: "docs",
-	base: '/SJTU-Wiki/'
+	base: '/SJTU-Wiki/',
     title: "SJTU Wiki",
     description: "Encyclopedia of SJTU",
 	head: [['link', { rel: 'icon', href: '/favicon.png' }]],
