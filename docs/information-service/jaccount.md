@@ -1,4 +1,7 @@
-# jAccount账号
+---
+title: jAccount账号
+order: 1
+---
 
 jAccount是上海交通大学为在校师生分配的身份识别账号，具有唯一性，用于校内系统的登录与身份验证。
 
