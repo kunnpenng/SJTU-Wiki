@@ -25,7 +25,7 @@ order: 5
 大学英语四、六级考试：25元/次，对比考免费
 
 ## 收入
-- 生活补贴：39.5元/月
+- 生活补贴：39.5元/月(医学院41.5元/月)
 - 勤工助学：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=41)
 - 助学金：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=36)
 - 奖学金：见各学院通知
