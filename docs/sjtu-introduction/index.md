@@ -1,4 +1,7 @@
-# 学校简介
+---
+title: 学校简介
+order: 10
+---
 
 上海交通大学介绍：见[官网](https://www.sjtu.edu.cn/xxjj/index.html)
 
